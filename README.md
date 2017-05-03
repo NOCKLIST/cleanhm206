@@ -2,7 +2,7 @@
 
 [LIVE DEMO](http://thenocklist.com/html5/clean/)
 
-1. DOWNLOAD THE [NOCKLIST CLEAN HOMEPG CONTENT INTEGRATION SYSTEM HOME V2.06 ZIP](https://github.com/NOCKLIST/cleanhm206)
+1. DOWNLOAD THE [NOCKLIST CLEAN HOMEPG CONTENT INTEGRATION SYSTEM V2.06 ZIP](https://github.com/NOCKLIST/cleanhm206)
 
 2. REGISTER WITH [ZAZZLE](http://www.zazzle.com/)
 
